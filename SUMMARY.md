@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* 第二章
+* [一、Spring Web MVC框架介绍](chapter1.md)
+* 二、DispatcherServlet
+* 三、Controller控制器
 * 第三章
-* 第四章
 * 第五章
 * 第六章
 * 第七章
